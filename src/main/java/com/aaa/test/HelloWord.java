@@ -19,5 +19,6 @@ public class HelloWord {
         System.out.println("hello world");
         System.out.println("hello world test");
 
+        System.out.println("hello world");
     }
 }
